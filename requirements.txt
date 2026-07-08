@@ -1,4 +1,1 @@
-pandas
-openpyxl
-jdatetime
-holidays
+python -m pip install pandas openpyxl jdatetime holidays
